@@ -1,0 +1,17 @@
+body{
+    background-color: #37505C;
+    color: white;
+}
+    
+header{
+    background-color: #FBBC05;
+    color:black;
+    border: 10px;
+    margin: 0px;
+    padding: 10px;
+}
+#eu{
+    height: 266px;
+    width: 200px;
+    border-radius: 100px;
+}
